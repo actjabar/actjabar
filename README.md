@@ -14,19 +14,18 @@ AnonCyberTeam opens opportunities for ordinary people to recognize the cyber wor
 Learn And Share Your Skill 
 Let's Grasp Your AbilityTo Learn Exploit and Code
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3gza3RydDAzbXZxdjNxNXF4Mm82aXN3MmdpOWx4cnk3cGMwdnZhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3gza3RydDAzbXZxdjNxNXF4Mm82aXN3MmdpOWx4cnk3cGMwdnZhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif" width="256" height="256" />
 
 ## PreView
 <pre>
 
-   .d8b.   .o88b. d888888b         d88b  .d8b.  d8888b.  .d8b.  d8888b. 
-d8' `8b d8P  Y8 `~~88~~'         `8P' d8' `8b 88  `8D d8' `8b 88  `8D 
-88ooo88 8P         88             88  88ooo88 88oooY' 88ooo88 88oobY' 
-88~~~88 8b         88             88  88~~~88 88~~~b. 88~~~88 88`8b   
-88   88 Y8b  d8    88         db. 88  88   88 88   8D 88   88 88 `88. 
-YP   YP  `Y88P'    YP         Y8888P  YP   YP Y8888P' YP   YP 88   YD 
-                                                                      
-                                                                      
+     ██╗ █████╗ ██████╗  █████╗ ██████╗ 
+     ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+     ██║███████║██████╔╝███████║██████╔╝
+██   ██║██╔══██║██╔══██╗██╔══██║██╔══██╗
+╚█████╔╝██║  ██║██████╔╝██║  ██║██║  ██║
+ ╚════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+                                                             
                                                                                                                                      
                                                                                                                                      
  ====================================================================
