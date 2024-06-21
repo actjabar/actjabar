@@ -16,6 +16,8 @@ Let's Grasp Your AbilityTo Learn Exploit and Code
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3gza3RydDAzbXZxdjNxNXF4Mm82aXN3MmdpOWx4cnk3cGMwdnZhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif" width="256" height="256" />
 
+
+
 ## PreView
 <pre>
 
